@@ -1,0 +1,15 @@
+/Users/VKANGNI/Desktop/Tutorial/BMICalculator/BMICalculator/bin/Debug/net8.0/BMICalculator
+/Users/VKANGNI/Desktop/Tutorial/BMICalculator/BMICalculator/bin/Debug/net8.0/BMICalculator.deps.json
+/Users/VKANGNI/Desktop/Tutorial/BMICalculator/BMICalculator/bin/Debug/net8.0/BMICalculator.runtimeconfig.json
+/Users/VKANGNI/Desktop/Tutorial/BMICalculator/BMICalculator/bin/Debug/net8.0/BMICalculator.dll
+/Users/VKANGNI/Desktop/Tutorial/BMICalculator/BMICalculator/bin/Debug/net8.0/BMICalculator.pdb
+/Users/VKANGNI/Desktop/Tutorial/BMICalculator/BMICalculator/obj/Debug/net8.0/BMICalculator.csproj.AssemblyReference.cache
+/Users/VKANGNI/Desktop/Tutorial/BMICalculator/BMICalculator/obj/Debug/net8.0/BMICalculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/VKANGNI/Desktop/Tutorial/BMICalculator/BMICalculator/obj/Debug/net8.0/BMICalculator.AssemblyInfoInputs.cache
+/Users/VKANGNI/Desktop/Tutorial/BMICalculator/BMICalculator/obj/Debug/net8.0/BMICalculator.AssemblyInfo.cs
+/Users/VKANGNI/Desktop/Tutorial/BMICalculator/BMICalculator/obj/Debug/net8.0/BMICalculator.csproj.CoreCompileInputs.cache
+/Users/VKANGNI/Desktop/Tutorial/BMICalculator/BMICalculator/obj/Debug/net8.0/BMICalculator.dll
+/Users/VKANGNI/Desktop/Tutorial/BMICalculator/BMICalculator/obj/Debug/net8.0/refint/BMICalculator.dll
+/Users/VKANGNI/Desktop/Tutorial/BMICalculator/BMICalculator/obj/Debug/net8.0/BMICalculator.pdb
+/Users/VKANGNI/Desktop/Tutorial/BMICalculator/BMICalculator/obj/Debug/net8.0/BMICalculator.genruntimeconfig.cache
+/Users/VKANGNI/Desktop/Tutorial/BMICalculator/BMICalculator/obj/Debug/net8.0/ref/BMICalculator.dll

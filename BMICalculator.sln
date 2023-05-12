@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BMICalculator", "BMICalculator\BMICalculator.csproj", "{BE539D7D-8B75-4FE4-B1D8-C34DA8D471E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BMICalculator.Features", "BMICalculator.Features\BMICalculator.Features.csproj", "{58126583-4F06-4CB5-888F-4C17630AAA39}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE539D7D-8B75-4FE4-B1D8-C34DA8D471E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE539D7D-8B75-4FE4-B1D8-C34DA8D471E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE539D7D-8B75-4FE4-B1D8-C34DA8D471E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE539D7D-8B75-4FE4-B1D8-C34DA8D471E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58126583-4F06-4CB5-888F-4C17630AAA39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58126583-4F06-4CB5-888F-4C17630AAA39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58126583-4F06-4CB5-888F-4C17630AAA39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58126583-4F06-4CB5-888F-4C17630AAA39}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
